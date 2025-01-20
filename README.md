@@ -7,7 +7,7 @@ A GitHub Action that automates the testing and publishing of Python packages usi
 
 ## Features
 
-- 🧪 Automated testing across multiple Python versions (3.10, 3.11)
+- 🧪 Automated testing across multiple Python versions (default 3.10, 3.11 or user specified)
 - 📦 Automatic publishing to TestPyPI on main branch pushes
 - 🚀 Automatic publishing to PyPI on tag releases
 - ✅ Version conflict prevention with pre-publish checks
