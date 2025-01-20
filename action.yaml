@@ -1,6 +1,10 @@
 name: Poetry Python Package Testing & Publishing
 description: Automates testing Python packages and publishing to PyPI/TestPyPI using Poetry, with version checks & conditional publishing
 
+branding:
+  icon: 'activity'
+  color: 'green'
+
 on:
   push:
     branches:
